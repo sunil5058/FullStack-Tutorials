@@ -1,0 +1,12 @@
+    nav a {
+    display: inline-block; /* allows width & height */
+    margin-right: 20px;
+    color: silver;
+    background-color: orangered;
+    text-decoration: none;
+    width: 36px;
+    height: 18x;
+    text-align: center;       /* center text horizontally */
+       /* center text vertically (quick hack) */
+    border-radius: 10px;      /* optional: rounded corners */
+}
